@@ -1,4 +1,4 @@
-#Copyright @Imavailableforfu
+#Copyright @Imavailableforf
 #Updates Channel @nevagoebotz
 API_ID = 34817033
 API_HASH = '77209f19451be9502c3e14c08b7aadc9'

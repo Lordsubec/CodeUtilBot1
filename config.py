@@ -1,10 +1,10 @@
 #Copyright @ISmartCoder
 #Updates Channel @abirxdhackz
-API_ID = 15xxxxx
-API_HASH = 'e04ab312a57ex'
-BOT_TOKEN = 'xxx:xxx-c8zhgjm8G3YbOM8A'
-UPDATE_CHANNEL_URL = 't.me/abirxdhackz'
+API_ID = 34817033
+API_HASH = '77209f19451be9502c3e14c08b7aadc9'
+BOT_TOKEN = '8240929917:AAE0o2aSMGofR1Jp8Iw5gbnhjUu0sASfCVE'
+UPDATE_CHANNEL_URL = 'https://t.me/nevagoebotz'
 
 COMMAND_PREFIXES = ['/', '!', '.', ',', '$', '#']
 
-API_BASE_URL = 'http://xxx:8000'
+API_BASE_URL = 'http://149.154.167.40:443'
